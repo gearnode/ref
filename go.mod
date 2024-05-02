@@ -1,3 +1,3 @@
-module gearno.de/ref
+module go.gearno.de/x/ref
 
 go 1.19
